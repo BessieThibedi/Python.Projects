@@ -47,14 +47,17 @@ def Cube(x):
     return result
 
 def Main():
-    print("Start")
+   """ print("Start")
     Hello()
     print( GetInteger())
     print(Cube("Please enter a number "))
 
     num7 = int(input("enter a number "))
     for step in range (num7):
-        print(step)
+        print(step)"""
+
+
+
 
 if __name__=="__main__":
     Main()
